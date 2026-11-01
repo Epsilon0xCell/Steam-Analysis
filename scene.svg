@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-label="Guild hall in three bands: window shaft above, judging table with chest at centre, benches and boot prints below">
+<rect width="1200" height="260" fill="#6b5d4c"/>
+<rect x="0" y="0" width="1200" height="86" fill="#7a6c58"/>
+<rect x="96" y="10" width="26" height="62" fill="#fac464"/>
+<g opacity=".5"><polygon points="110,72 128,72 300,150 190,150" fill="#ffbe5c"><animate attributeName="opacity" values=".35;.6;.35" dur="16s" repeatCount="indefinite"/></polygon></g>
+<g fill="#ffdc96"><circle cx="180" cy="80" r="2"><animate attributeName="cy" values="76;140" dur="13s" repeatCount="indefinite"/></circle><circle cx="230" cy="70" r="2"><animate attributeName="cy" values="66;146" dur="17s" repeatCount="indefinite"/></circle></g>
+<rect x="860" y="96" width="70" height="52" fill="#3a2c1c"/>
+<rect x="120" y="150" width="960" height="16" fill="#8c6032"/>
+<g><g><polygon points="430,150 640,150 622,106 448,106" fill="#6e221b"/><rect x="430" y="118" width="210" height="32" fill="#8a2e24"/><animateTransform attributeName="transform" type="rotate" values="0 430 150;-4 430 150;0 430 150" dur="14s" repeatCount="indefinite"/></g><rect x="430" y="150" width="210" height="14" fill="#8a2e24"/></g>
+<rect x="690" y="128" width="150" height="26" fill="#f4eedc"/>
+<g transform="translate(792 141)"><circle r="13" fill="none" stroke="#966c3c" stroke-width="5"/><circle r="3" fill="#785428"/><animateTransform attributeName="transform" type="rotate" values="0;0;90;90;180;180;270;270;360" keyTimes="0;.3;.4;.55;.65;.8;.9;.97;1" dur="20s" repeatCount="indefinite" additive="sum"/></g>
+<g><ellipse cx="1010" cy="140" rx="26" ry="7" fill="#d86024"><animate attributeName="opacity" values=".45;1;.5;.9;.45" dur="7s" repeatCount="indefinite"/></ellipse></g>
+<rect x="0" y="196" width="1200" height="64" fill="#2c241a"/>
+<rect x="60" y="182" width="180" height="12" fill="#46341e"/><rect x="960" y="182" width="180" height="12" fill="#46341e"/>
+<g fill="#c6b496" opacity=".8"><ellipse cx="330" cy="222" rx="17" ry="6"/><ellipse cx="366" cy="236" rx="15" ry="5"/><ellipse cx="440" cy="230" rx="17" ry="6"/></g>
+</svg>
